@@ -13,3 +13,12 @@ Además, estoy presentando mis prácticas profesionales en el consorcio aduanal 
 * Ente otros... :office:
 
 Se que aun tengo mucho que aprender sobre mi carrera como tal pero espero seguir formándome con el paso del tiempo con ayuda de la comunidad y con la corrección de mis maestros :sparkles:
+
+### :sparkles: *Motivaciones* :sparkles:
+
+* Tengo una gata llamada *Ópalo* que alimentar :cat2: :sparkling_heart:
+* Demostrarle a los demás que puedo abrirme paso en la vida :surfer:
+* Mejorar como personas :four_leaf_clover:
+* Ser alguein independiente :leaves:
+* Explorar el mundo y todo lo que tiene por ofrecer :airplane:
+* Aprender nuevas cosas cada día :bulb:
