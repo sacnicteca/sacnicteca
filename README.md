@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola a todos :cat2:
 
-<!--
-**sacnicteca/sacnicteca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sacnicté Cruz, para servirles :cat:
 
-Here are some ideas to get you started:
+Actualmente soy estudiante del 6to. semestre de Ingeniería en sistemas Computacionales de la Universidad Cristóbal Colón :book:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Además, estoy presentando mis prácticas profesionales en el consorcio aduanal **Silva Herzog** :boat: en donde realizo actividades como:
+
+* Soporte :wrench: 
+* Administración de cuentas :e-mail:
+* Automatización de página web :globe_with_meridians:
+* Control de tickets :page_facing_up:
+* Ente otros... :office:
+
+Se que aun tengo mucho que aprender sobre mi carrera como tal pero espero seguir formándome con el paso del tiempo con ayuda de la comunidad y con la corrección de mis maestros :sparkles:
