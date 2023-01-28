@@ -1,6 +1,6 @@
-## Hola a todos :cat2:
+## Hola a todos 
 
-### Sacnicté Cruz, para servirles :cat:
+### Sacnicté Cruz para servirles :cat:
 
 Actualmente soy estudiante del 6to. semestre de Ingeniería en sistemas Computacionales de la Universidad Cristóbal Colón :book:
 
